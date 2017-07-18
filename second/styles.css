@@ -1,0 +1,41 @@
+
+.left{
+    height:100vh;
+    width:33%;
+    background:blue;
+    float:left;
+}
+.middle{
+    float:left;
+     height:100vh;
+     width:33%;
+     background:green;
+}
+.right{
+    float:left;
+    height:100vh;
+    width:33%;
+    background:lightgreen;
+}
+body{
+    margin:0;
+    padding:0;
+    border:0;
+}
+.placeholder{
+  
+    text-align:center;
+    color:white;
+    font-size:18pt;
+    margin:0 auto;
+    margin-top:25%;
+}
+
+.right-bottom{
+    width:33%;
+    height:20vh;
+    position:absolute;
+    bottom:0;
+    
+    background-color:red;
+}
