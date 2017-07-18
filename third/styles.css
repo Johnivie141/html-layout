@@ -1,0 +1,45 @@
+.top{
+    width:100%;
+    height:12vh;
+    background-color:black;
+}
+
+body{
+    margin:0;
+    padding:0;
+    border:0;
+}
+.text-container{
+    height:24.5vh;
+  
+}
+.text{
+
+    margin: auto;
+    width:90%;
+    margin-top:4%;
+    padding:10px;
+    font-size:15pt;
+
+}
+.blue{
+    width:100%;
+    height:14.5vh;
+    background-color:lightblue;
+}
+.green{
+    width:100%;
+    height:14.5vh;
+    background-color: #00FFCC;
+}
+.lightgreen{
+    width:100%;
+    height:14.5vh;
+    background-color:lightgreen;
+}
+
+.yellow{
+    width:100%;
+    height:14.5vh;
+    background-color:yellow;
+}
