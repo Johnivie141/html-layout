@@ -1,0 +1,35 @@
+
+.top{
+    height: 17vh;
+    width:100%;
+    background:#383838;
+    
+
+
+}
+.bottom{
+    height: 83vh;
+    width:100%;
+    background: #CCC;
+}
+
+.bottom-top{
+    background-color:white;
+    width:66%;
+    margin:0 auto;
+    height:74vh;
+
+}
+.bottom-bottom{
+   
+    margin: 0 auto;
+    height:10vh;
+    width:66%;
+    background:#383838;
+}
+
+body{
+    margin:0;
+    padding:0;
+    border:0;
+}
